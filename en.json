@@ -97,11 +97,11 @@
 
 "setYourAvailability" : "Set Your Availability",
 "upcomingAppointments" : "Upcoming Appointments",
-"date" : "Date" : ",
-"time" : "Time" : ",
-"type" : "Type" : ",
-"appointmentFor" : "Appointment For" : ",
-"issue" : "Issue" : ",
+"date" : "Date",
+"time" : "Time",
+"type" : "Type",
+"appointmentFor" : "Appointment For",
+"issue" : "Issue",
 "patientHistory" : "Patient History",
 "markAsCompleted" : "Mark as Completed",
 "requestCancellation" : "Request Cancellation",
@@ -117,13 +117,13 @@
 
 
 
-"bookingID" : "Booking ID" : ",
+"bookingID" : "Booking ID",
 "addPrescription" : "Add Prescription",
 "viewDetails" : "View Details",
 "reBook" : "Re-book",
 "addReview" : "Add Review",
 
-"reason" : "Reason" : ",
+"reason" : "Reason",
 
 "diagnosisSummary" : "Diagnosis Summary",
 "advisedMedicines" : "Advised Medicines",
@@ -169,7 +169,7 @@
 "verifyCode" : "Verify Code",
 "otpMessage" : "4 digit OTP has been sent to your mobile number",
 "changeNumber" : "Change Number",
-"resendOtp" : "Resend OTP in 00" :25",
+"resendOtp" : "Resend OTP in 00:25",
 
 "notification" : "Notification",
 "clearAll" : "Clear All",
